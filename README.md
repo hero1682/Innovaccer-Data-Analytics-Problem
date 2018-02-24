@@ -1,1 +1,8 @@
-# Innovaccer-Data-Analytics-Problem
+# Innovaccer Data Analytics
+
+## Duplication Problem
+
+### Library Used:
+
+Pandas
+
